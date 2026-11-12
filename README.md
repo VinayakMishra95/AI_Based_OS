@@ -26,4 +26,3 @@ ls, cat <file>, touch <file>, write <file> <text>, rm <file>, sync
 ps, spawn <name>, kill <pid>
 mem, uptime, uname, calc <a op b>, hexdump <0xADDR>, clear
 
-ai <natural language task or question>
